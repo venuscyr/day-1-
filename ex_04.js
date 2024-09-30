@@ -1,0 +1,7 @@
+displayThisText(typeof undefined )
+displayThisText(typeof false)
+displayThisText(typeof 22 )
+displayThisText(typeof 10564n )
+displayThisText(typeof Symbol ()  )
+displayThisText(typeof [1,9] )
+displayThisText(typeof function (){})
